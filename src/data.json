@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "image": "Bulbasaur.png",
+        "name": "Bulbasaur",
+        "purchased": false,
+        "price": 0.0001
+    },
+    {
+        "id": 1,
+        "image": "Bulbasaur.png",
+        "name": "Bulbasaur",
+        "purchased": false,
+        "price": 0.0001
+    },{
+        "id": 1,
+        "image": "Bulbasaur.png",
+        "name": "Bulbasaur",
+        "purchased": false,
+        "price": 0.0001
+    },{
+        "id": 1,
+        "image": "Bulbasaur.png",
+        "name": "Bulbasaur",
+        "purchased": false,
+        "price": 0.0001
+    },{
+        "id": 1,
+        "image": "Bulbasaur.png",
+        "name": "Bulbasaur",
+        "purchased": false,
+        "price": 0.0001
+    },{
+        "id": 1,
+        "image": "Bulbasaur.png",
+        "name": "Bulbasaur",
+        "purchased": false,
+        "price": 0.0001
+    },{
+        "id": 1,
+        "image": "Bulbasaur.png",
+        "name": "Bulbasaur",
+        "purchased": false,
+        "price": 0.0001
+    },{
+        "id": 1,
+        "image": "Bulbasaur.png",
+        "name": "Bulbasaur",
+        "purchased": false,
+        "price": 0.0001
+    }
+
+]

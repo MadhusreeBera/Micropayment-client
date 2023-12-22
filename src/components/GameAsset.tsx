@@ -15,7 +15,17 @@ const GameAsset = () => {
         <h1 className='text-5xl font-bold m-5 mx-auto text-center'>Buy Game Assets</h1>
         <div>
         <div className="lg:w-[20%] md:w-[40%] flex items-center justify-center flex-col m-auto my-4 px-4 py-2 rounded-md mx-4 operateCard bg-white min-h-[100px] shadow-md">
-          <p className="text-lg ">Efficient</p>
+          <img src="Bulbasaur.png" alt="" />
+          <div className='flex justify-end'>
+
+          <p className="text-lg ">Bulbasaur</p>
+          <button
+        
+        className="m-2 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded shadow-md"
+      >
+        Approve
+      </button>
+          </div>
         </div>
         </div>
       </div>
