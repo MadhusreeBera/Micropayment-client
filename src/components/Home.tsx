@@ -39,7 +39,7 @@ function Home() {
 
     const receiver_address = "0x9c684f4bf5488ff426efdfe05f2323223be27462cdcb573b247b12202477e442";
     const amount = 100000000;
-    const no_of_tokens= 1000;
+    const no_of_tokens= 10000;
     const trust_token = "0x579eebe4c235303c73c65fe55db98ab0bf56aab55148411bbef60456ed8495b3";
     const payload = {
       type: "entry_function_payload",
